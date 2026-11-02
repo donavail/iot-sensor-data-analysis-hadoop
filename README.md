@@ -1,2 +1,4 @@
 # iot-sensor-data-analysis-hadoop
-Sensor data analysis using Apache Hadoop and MapReduce in an Internet of Things (IoT) application
+# Sensor Data Analysis in Internet of Things Using Hadoop
+
+This project explores the application of Apache Hadoop for processing and analyzing sensor data in an Internet of Things (IoT) environment. The study utilizes Hadoop Distributed File System (HDFS) for distributed data storage and MapReduce for parallel data processing across a multi-node cluster consisting of one master node and two slave nodes. Using a temperature dataset covering a period of ten years, the analysis aims to identify the highest temperature, lowest temperature, and average temperature. The processing results show a maximum temperature of 92.7°F recorded in 2016, a minimum temperature of -27.7°F recorded in 2011, and an average temperature of 44.4°F. This repository contains the original project presentation documenting the background, methodology, Hadoop components, and analysis results.
